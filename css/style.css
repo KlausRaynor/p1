@@ -32,6 +32,22 @@
 
 body{
 	font-family: "Helvetica Neue", Helvetica, sans-serif;
-	background-color:#9C4F44;
+	color:#444B57;
+	background-color:#DCE0E3;
+}
+h3{
+	color:#444B57;
+}
+div h3{
+	color:#000000;
+}
+div{
+	color:#685469;
 }
 
+img{
+	height: auto;
+	width: auto;
+	max-width: 200px;
+	max-height: 200px;
+}
