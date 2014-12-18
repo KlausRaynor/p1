@@ -16,12 +16,12 @@
 
 <div id="menu">
 <center>
-	<h3>Project 2 Title</h3>
+	<h3>Password Generator</h3>
 	View:<a href="http://p2.klausholder.me">[Link]</a> Github:<a href="https://github.com/KlausRaynor/p2">[Link]</a>
-	<h3>Project 3 Title</h3>
+	<h3>Developer's Best Friend</h3>
 	View:<a href="http://p3.klausholder.me">[Link]</a> Github:<a href="https://github.com/KlausRaynor/p3">[Link]</a>
-	<h3>Project 4 Title</h3>
-	View:<a href="http://p4.klausholder.me">[Link]</a> Github:<a href="https://github.com/KlausRaynor/p4">[Link]</a>
+	<h3>Bite Me Bouquet</h3>
+	View:<a href="http://bmb.klausholder.me">[Link]</a> Github:<a href="https://github.com/KlausRaynor/bmb">[Link]</a>
 </center>
 </div>
 <div class="info" id="huami"><h3>Who Am I?</h3>My name is Klaus Holder, current student pursuing a Bachelors of Liberal Arts at Harvard's Extension School.  Working part-time at Harvard's Graduate School of Education, I use my spare hours to program games in Unity with a small team.   Currently, we are working on creating a demo for a game still in progress.  </div><br>
